@@ -18,7 +18,7 @@
         "silex/silex": "1.0.*@dev",
         "kriswallsmith/buzz": "0.10",
         "predis/predis": "0.7.*",
-        "twig/twig": "1.6.*",
+        "twig/twig": "1.36.*",
         "monolog/monolog": "1.0.*",
         "facebook/xhprof": "dev-master",
         "symfony/serializer": "2.0.*"
